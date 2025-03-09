@@ -1,6 +1,6 @@
 # Research-Paper-Topic-Modelling
 
-This repository contains a framework that leverages embeddings and topic modelling to perform exploratory analysis of research trends. By simply inputting a list of research article information (including title, abstract, and author), users can perform an initial trend analysis of a research area.
+This repository contains a tool that leverages embeddings and topic modelling to perform exploratory analysis of research trends. By simply inputting a list of research article information (including title, abstract, and author), users can perform an initial trend analysis of a research area.
 
 This tool is a valuable asset for researchers and analysts looking to quickly analyze research papers and understand emerging trends in a specific field. By leveraging both traditional and modern topic modelling techniques, it provides a comprehensive overview of research topics and their evolution over time. Users can input a list of research articles, including titles, abstracts, and authors, to perform an initial trend analysis. The framework's integration of embeddings enhances the semantic richness and interpretability of the topics, making it easier to identify and understand key research trends.
 
