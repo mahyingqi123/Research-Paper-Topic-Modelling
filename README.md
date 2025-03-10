@@ -13,4 +13,5 @@ The framework demonstrates two primary methods for topic modelling:
 
 2. **Embedding-Enhanced Topic Modelling:**  
    Integrates modern embeddings (e.g., BERT, word2vec) into the topic modelling process, enhancing the semantic richness and interpretability of the derived topics.
+   Integrate modern LLM API to analyse the data aggregated, provide insights on the data and generate possible topic area names according to common words.
 
